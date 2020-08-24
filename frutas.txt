@@ -2,4 +2,4 @@ Lista de frutas:
 Maça
 banana
 amoras
-peras
+morangos
