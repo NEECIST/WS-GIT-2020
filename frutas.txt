@@ -3,3 +3,4 @@ Maça
 nectarinas
 amoras
 morangos
+teste merge
